@@ -1,0 +1,32 @@
+.not-found-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.h1_notfoud {
+    font-size: 150px;
+    color: #e74c3c;
+    margin: 0;
+}
+
+p {
+    font-size: 24px;
+    color: #333;
+    margin-top: 10px;
+}
+
+.return-home-btn {
+    background-color: #3498db;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.return-home-btn:hover {
+    background-color: #297fb8;
+}
